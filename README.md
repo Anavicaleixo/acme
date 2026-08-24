@@ -295,11 +295,13 @@ Os screenshots gerados pelos testes automatizados ficam salvos em:
 
 ```
 assets/screenshots/
+├── screenshot_Logout.png
 ├── screenshot_Login_correto.png
-├── screenshot_Senha_incorreta.png
-├── screenshot_Campo_email_vazio.png
-├── screenshot_Campo_senha_vazio.png
-└── screenshot_Tentativa_de_XSS.png
+├── screenshot_Login_correto(2).png
+├── screenshot_Login_errado.png
+├── screenshot_Login_errado(2).png
+├── screenshot_Cadastro_errado.png
+└── screenshot_Cadastro_errado(2).png
 ```
 
 O relatório em JSON pode ser aberto com qualquer editor de texto.
